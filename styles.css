@@ -2067,8 +2067,7 @@ h1 em {
   }
 
   .case-resources { 
-    padding: 72px 0 12px; 
-    border-top: 1px solid var(--line); 
+    padding: 0; 
   }
 
   .case-resources .section-heading { 
@@ -2749,6 +2748,7 @@ h1 em {
   gap: 70px;
   padding: 82px 0;
   border-bottom: 1px solid var(--line);
+  align-items: center;
 }
 
 .case-content h2 {
@@ -2912,7 +2912,7 @@ h1 em {
 .case-page .case-resources {
   width: 100%;
   margin-top: 72px;
-  padding: 72px 0 12px;
+  padding: 0;
   border-top: 1px solid var(--line);
 }
 
